@@ -29,7 +29,7 @@
 
 ***Example: How to create identifiers based on the data with Stata (Version 16)***
 
-The do-file provides a way of creating binary variables indicating, if a specific districts shares at least one foreign and/or domestic border with Bavaria. 
+The do-file provides a way of creating binary variables indicating, if a specific districts shares at least one foreign border and/or a domestic border with Bavaria. 
 Output file: _All_german_bavarian_districts_border_indicators.dta_
 
 ***Licence***:
